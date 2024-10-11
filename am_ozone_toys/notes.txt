@@ -1,0 +1,4 @@
+This is a computation of d(delay) / d(Tsys) to compare with Karto's
+experimental run on 2019Apr30, from 19-21 UT, for source elevation
+ranging from 30 to 45 degrees.  The computation is based on
+GFS-derived models for this period.

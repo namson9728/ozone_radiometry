@@ -1,0 +1,160 @@
+
+#
+# Layer data below were derived from NCEP GFS model data obtained
+# from the NOAA Operational Model Archive Distribution System
+# (NOMADS).  See http://nomads.ncep.noaa.gov for more information.
+#
+#         Production date: 20190430
+#                   Cycle: 18 UT
+#                 Product: 003 hour forecast
+#
+# Interpolated to
+#
+#                latitude: 19.824 deg. N
+#               longitude: -155.478 deg. E
+#   Geopotential altitude: 4080.0 m
+#
+
+layer
+Pbase 1.0 mbar  # 47803.8 m
+Tbase 260.2 K
+column dry_air vmr
+column o3 vmr 2.783e-06
+
+layer
+Pbase 2.0 mbar  # 42526.4 m
+Tbase 258.7 K
+column dry_air vmr
+column o3 vmr 3.769e-06
+
+layer
+Pbase 3.0 mbar  # 39490.3 m
+Tbase 252.3 K
+column dry_air vmr
+column o3 vmr 5.491e-06
+
+layer
+Pbase 5.0 mbar  # 35800.0 m
+Tbase 241.9 K
+column dry_air vmr
+column o3 vmr 7.157e-06
+
+layer
+Pbase 7.0 mbar  # 33441.8 m
+Tbase 237.1 K
+column dry_air vmr
+column o3 vmr 8.517e-06
+
+layer
+Pbase 10.0 mbar  # 30995.6 m
+Tbase 231.2 K
+column dry_air vmr
+column o3 vmr 8.995e-06
+
+layer
+Pbase 20.0 mbar  # 26390.1 m
+Tbase 223.6 K
+column dry_air vmr
+column o3 vmr 7.858e-06
+
+layer
+Pbase 30.0 mbar  # 23776.3 m
+Tbase 216.1 K
+column dry_air vmr
+column o3 vmr 5.780e-06
+column h2o RHi 0.47%
+
+layer
+Pbase 50.0 mbar  # 20616.8 m
+Tbase 207.2 K
+column dry_air vmr
+column o3 vmr 3.381e-06
+column h2o RHi 2.08%
+
+layer
+Pbase 70.0 mbar  # 18598.2 m
+Tbase 201.4 K
+column dry_air vmr
+column o3 vmr 1.510e-06
+column h2o RHi 6.02%
+
+layer
+Pbase 100.0 mbar  # 16515.0 m
+Tbase 201.1 K
+column dry_air vmr
+column o3 vmr 7.072e-07
+column h2o RHi 15.17%
+
+layer
+Pbase 150.0 mbar  # 14069.1 m
+Tbase 211.3 K
+column dry_air vmr
+column o3 vmr 2.266e-07
+column h2o RHi 22.37%
+
+layer
+Pbase 200.0 mbar  # 12259.6 m
+Tbase 218.9 K
+column dry_air vmr
+column o3 vmr 1.776e-07
+column h2o RHi 23.86%
+
+layer
+Pbase 250.0 mbar  # 10801.6 m
+Tbase 228.2 K
+column dry_air vmr
+column o3 vmr 1.557e-07
+column h2o RHi 18.93%
+
+layer
+Pbase 300.0 mbar  # 9562.2 m
+Tbase 236.4 K
+column dry_air vmr
+column o3 vmr 1.222e-07
+column h2o RHi 11.02%
+
+layer
+Pbase 350.0 mbar  # 8478.6 m
+Tbase 244.1 K
+column dry_air vmr
+column o3 vmr 9.024e-08
+column h2o RH 7.73%
+
+layer
+Pbase 400.0 mbar  # 7509.9 m
+Tbase 251.6 K
+column dry_air vmr
+column o3 vmr 7.206e-08
+column h2o RH 7.10%
+
+layer
+Pbase 450.0 mbar  # 6630.6 m
+Tbase 258.3 K
+column dry_air vmr
+column o3 vmr 3.398e-08
+column h2o RH 7.57%
+
+layer
+Pbase 500.0 mbar  # 5826.1 m
+Tbase 263.2 K
+column dry_air vmr
+column h2o RH 11.05%
+
+layer
+Pbase 550.0 mbar  # 5085.4 m
+Tbase 267.5 K
+column dry_air vmr
+column h2o RH 19.01%
+
+layer
+Pbase 600.0 mbar  # 4398.2 m
+Tbase 271.6 K
+column dry_air vmr
+column h2o RH 32.49%
+
+layer
+Pbase 624.3 mbar  # 4080.0 m
+Tbase 273.6 K
+column dry_air vmr
+column h2o RH 43.77%
+column lwp_abs_Rayleigh 7.945e-05 kg*m^-2
